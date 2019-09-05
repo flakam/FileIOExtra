@@ -1,0 +1,11 @@
+C:\Users\Flaka\source\repos\FileIOProject\FileIOProject\bin\Debug\netcoreapp2.1\FileIOProject.deps.json
+C:\Users\Flaka\source\repos\FileIOProject\FileIOProject\bin\Debug\netcoreapp2.1\FileIOProject.runtimeconfig.json
+C:\Users\Flaka\source\repos\FileIOProject\FileIOProject\bin\Debug\netcoreapp2.1\FileIOProject.runtimeconfig.dev.json
+C:\Users\Flaka\source\repos\FileIOProject\FileIOProject\bin\Debug\netcoreapp2.1\FileIOProject.dll
+C:\Users\Flaka\source\repos\FileIOProject\FileIOProject\bin\Debug\netcoreapp2.1\FileIOProject.pdb
+C:\Users\Flaka\source\repos\FileIOProject\FileIOProject\obj\Debug\netcoreapp2.1\FileIOProject.csprojAssemblyReference.cache
+C:\Users\Flaka\source\repos\FileIOProject\FileIOProject\obj\Debug\netcoreapp2.1\FileIOProject.csproj.CoreCompileInputs.cache
+C:\Users\Flaka\source\repos\FileIOProject\FileIOProject\obj\Debug\netcoreapp2.1\FileIOProject.AssemblyInfoInputs.cache
+C:\Users\Flaka\source\repos\FileIOProject\FileIOProject\obj\Debug\netcoreapp2.1\FileIOProject.AssemblyInfo.cs
+C:\Users\Flaka\source\repos\FileIOProject\FileIOProject\obj\Debug\netcoreapp2.1\FileIOProject.dll
+C:\Users\Flaka\source\repos\FileIOProject\FileIOProject\obj\Debug\netcoreapp2.1\FileIOProject.pdb
