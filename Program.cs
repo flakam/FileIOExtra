@@ -29,6 +29,7 @@ namespace FileIOProject
                 Console.WriteLine("Please input a menu item. When inputing please use character | between name of the item,category,description and price.Please put a comma in the end");
                 string inputMenuItem = Console.ReadLine();
                 Console.WriteLine();
+                Console.WriteLine();
 
                 if (!fileOutput.Contains(inputMenuItem))
                 {
